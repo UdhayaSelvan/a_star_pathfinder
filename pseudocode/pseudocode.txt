@@ -1,0 +1,31 @@
+// A* (star) Pathfinding
+// Initialize both open and closed list
+Initialize open and closed list as empty lists
+// Add the start spot
+put the start spot on the openList (f, g and h value equals zero)
+// Loop until you find the end
+while the openList is not empty
+    // Get the current spot
+    let the current spot equal the spot with the least f value
+    remove the current spot from the openList
+    add the current spot to the closedList
+    // Found the goal
+    if current spot is the goal
+        the goal reached! Backtrack to get path
+    // Generate neighour
+    let the neighour of the current spot equal the adjacent spot
+    
+    for each buddy in the neighour
+        // buddy is on the closedList
+        if buddy is in the closedList
+            continue to beginning of for loop
+        // Create the f, g, and h values
+        buddy.g = currentspot.g + distance between buddy and current spot
+        buddy.h = distance from buddy to end
+        buddy.f = buddy.g + buddy.h
+        // buddy is already in openList
+        if buddy.coordinate is in the openList's nodes positions
+            if the buddy.g is higher than the openList spot's g
+                continue to beginning of for loop
+        // Add the buddy to the openList
+        add the buddy to the openList
