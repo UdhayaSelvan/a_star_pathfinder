@@ -10,3 +10,15 @@ If you want to run the program you need **pygame module** installed in your comp
 
 
 I've added three videos in this folder demonstrating the program run. You can download and open the files (MP4).
+
+
+The links for the videos: 
+
+
+https://photos.google.com/share/AF1QipOyiTs6vSxmRZRIkI52U82uoXa10ybU2KXZyGJ-bt52j5v3rT0KFl5h66lWkpnRZw/photo/AF1QipP9oMwSzWR6JYCb3I04iqeMlsB-732KGQhHwVtT?key=cHVDMzF0UEdoM05FY3B2SHFTS2xCWWZCNFB3c29n
+
+
+https://photos.google.com/share/AF1QipO974dZyDGC-BrsOiaHge5Zc4al8CYwTjuRIKiJ8yeRFOvgg2fL5lVu2mzAGVhkUA/photo/AF1QipPOJdQDcBKSUj-paVOsVdhmbdAwoDr6_fpXqlXb?key=dmFJTFV0WDJMR1RWUzlMbmF0SlIxX25kd1BPYm9B
+
+
+https://photos.google.com/share/AF1QipPXZ6qPVKs3TwfZjZRQRvzLNeSmaxW_91vTFx2UOQtu5opnxIz7IBcdjZdQru3vCA/photo/AF1QipO7fgffR6ss4UVmBUZIhkUoaNlbssAPWW4_IiTM?key=bjJ4ekZuSlRvMjBhQ3dfUWFpcVp6SG9KX2Rlcmt3
